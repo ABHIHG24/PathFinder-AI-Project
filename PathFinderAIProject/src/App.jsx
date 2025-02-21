@@ -90,6 +90,7 @@ const router = createBrowserRouter(
         {
           path: "Resources",
           element: <Resources />,
+          
         },
         {
           path: "SingleCareer/:id",
